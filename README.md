@@ -1,6 +1,6 @@
-<h1 align="center">Olá, Meu nome é Gabriel Silva</h1
+<h1>Olá, Meu nome é Gabriel Silva</h1
 
-Sou técnico em informática e estudante do curso de Ciências da Computação pelo Instituto Federal Baiano.
+Sou técnico em informática e estudante do curso de Ciências da Computação pelo Instituto Federal Baiano - Senhor do Bonfim.
 
 Também sou **Programador Web FullStack** na **RedFox** e tenho um carinho especial pelo Javascript e seu ecossistema. Trabalho com tecnologias como:
 
