@@ -20,7 +20,7 @@ Também sou **Programador Web FullStack** na **RedFox** e tenho um carinho espec
 <hr />
 
 
-Você pode me encontrar em:
+Você também pode me encontrar em:
 
 <a href="https://www.instagram.com/gabrieljsillva">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
