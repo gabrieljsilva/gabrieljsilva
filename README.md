@@ -2,7 +2,7 @@
 
 Sou técnico em informática e estudante do curso de Ciências da Computação pelo Instituto Federal Baiano - Senhor do Bonfim.
 
-Também sou **Programador Web FullStack** na **RedFox** e tenho um carinho especial pelo Javascript e seu ecossistema. Trabalho com tecnologias como:
+Também sou **Programador Web FullStack** e tenho um carinho especial pelo Javascript e seu ecossistema. Trabalho com tecnologias como:
 
 <div>
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -18,7 +18,6 @@ Também sou **Programador Web FullStack** na **RedFox** e tenho um carinho espec
 </div>
 
 <hr />
-
 
 Você também pode me encontrar em:
 
