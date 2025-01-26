@@ -1,6 +1,6 @@
 <h1>Olá, Meu nome é Gabriel Silva</h1
 
-Sou programador Fullstack e tenho 24 anos. Eu sou especialista em programação Javascript e Node.js com mais de 4 anos de experiência. Possuo formação técnica em informática pelo Instituto Federal de Educação, Ciência e Tecnologia. Já trabalhei em vários projetos em diferentes áreas como: saúde, R&S, RH, entre outros. Já trabalhei também com metodologias ágeis, testes automatizados, microsserviços e fluxos de CI/CD.
+Sou programador Fullstack e tenho 25 anos. Eu sou especialista em programação Javascript e Node.js com mais de 4 anos de experiência. Possuo formação técnica em informática pelo Instituto Federal de Educação, Ciência e Tecnologia. Já trabalhei em vários projetos em diferentes áreas como: saúde, R&S, RH, entre outros. Já trabalhei também com metodologias ágeis, testes automatizados, microsserviços e fluxos de CI/CD.
 
 <div>
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
