@@ -29,3 +29,6 @@ Você também pode me encontrar em:
 <a href="https://www.linkedin.com/in/gabrieldjs21">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+> “Talk is cheap. Show me the code.”  
+> — **Linus Torvalds**
