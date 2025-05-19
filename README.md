@@ -1,6 +1,8 @@
 <h1>Olá, Meu nome é Gabriel Silva</h1
 
-Sou programador Fullstack e tenho 25 anos. Eu sou especialista em programação Javascript e Node.js com mais de 4 anos de experiência. Possuo formação técnica em informática pelo Instituto Federal de Educação, Ciência e Tecnologia. Já trabalhei em vários projetos em diferentes áreas como: saúde, R&S, RH, entre outros. Já trabalhei também com metodologias ágeis, testes automatizados, microsserviços e fluxos de CI/CD.
+Sou programador Fullstack e tenho 25 anos. Eu sou especialista em programação Javascript e Node.js com mais de 5 anos de experiência.
+Possuo formação técnica em informática pelo Instituto Federal de Educação, Ciência e Tecnologia. Já trabalhei em vários projetos em diferentes áreas como: saúde, finanças, R&S, RH, entre outros.
+Tenho experiência com metodologias ágeis, testes automatizados, microsserviços e fluxos de CI/CD.
 
 <div>
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -11,6 +13,8 @@ Sou programador Fullstack e tenho 25 anos. Eu sou especialista em programação 
 	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 	<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 	<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+	<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+	<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=kafka&logoColor=white" />
 </div>
 
 <hr />
